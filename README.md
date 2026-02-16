@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - dhrupadpaitandy@example.com
 
 Project Link: [https://github.com/yourusername/ml-project-workflow](https://github.com/Dhrupad-05/Intro-to-Machine-Learning)
 
